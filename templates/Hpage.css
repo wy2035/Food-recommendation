@@ -1,0 +1,87 @@
+titlt.s1
+{
+    font-family:楷书;
+    font-style:normal;
+    font-size: 2.5em;
+    color:rgb(61, 240, 201);
+}
+
+h1
+{
+    font-family:楷书;
+    font-style:normal;
+    color:rgb(61, 240, 201);
+    text-align: center;
+}
+h2
+{
+    font-family:楷书;
+    font-style:normal;
+    color:rgb(61, 240, 201);
+    text-align: center;
+}
+p.pstyle1
+{
+    font-family:楷书;
+    font-style:italic;
+    font-size: 1.0 em;
+    font-weight: bold;
+    color:black;
+}
+.context
+{
+    font-family:Arial;
+    font-style:normal;
+    font-size: 1.0em;
+    color:black;
+    text-align: center;
+    text-indent: 2em;
+}
+div.comment
+{
+    font-family:楷书;
+    font-style:italic;
+    font-size: 0.8em;
+    color:rgba(131, 191, 240, 0.904);
+}
+div.notice
+{
+    font-family:楷书;
+    font-style:italic;
+    font-size: 1.2em;
+    color:rgba(209, 74, 103, 0.911);
+}
+a{ 
+    text-decoration-line: none
+}
+a :link{color:rgba(21, 228, 131, 0.527);}
+a :visited {color: rosybrown;}
+a :active {color: salmon,}
+a :hover {color: red}
+a.optional
+{
+    color: rgb(113, 167, 238);
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-small;
+}
+
+.center{
+    text-align: center;
+}
+
+
+#header
+{
+    width: 1600px;
+    height: 224px;
+    margin: 0 auto;
+    background-image: url(photo/headerbg5.jpg);
+}
+#container
+{
+    width:784 px;
+    margin: 0 auto;
+    padding :8px;
+    background-color: aliceblue;
+}

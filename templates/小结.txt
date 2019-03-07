@@ -1,0 +1,16 @@
+/
+{home_page.html
+ Hpage.css
+ search.html     //-
+ userload.html //-
+}
+/setting
+/introduction
+{
+  fruit.html
+  vagetable.html
+  search.html //?
+}
+/photo
+/more
+/user
